@@ -21,7 +21,3 @@ venv/
 # Build
 dist/
 build/
-
-node_modules/
-.env
-__pycache__/
